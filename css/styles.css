@@ -1,0 +1,31 @@
+body {
+    font-family: 'DM Sans', sans-serif;
+  }
+  .btn-custom {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+  }
+  .centered-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 8vh;
+  }
+  .top-svg {
+position: absolute;
+top: -26vh;
+left: 50%;
+transform: translateX(-50%);
+  }
+  .info-box {
+    background-color: #161616;
+    text-align: center;
+    padding: 3rem;
+    margin-top: 2rem;
+    border-top-right-radius: 2rem;
+    border-top-left-radius: 2rem;
+    position: relative;
+  }
+  p {
+    color: #B3B3B3;
+  }
